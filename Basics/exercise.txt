@@ -1,0 +1,5 @@
+1. A terminal is a way to navigate through computers folder and files 
+
+2. Git is software that tracks source code while GitHub is a service where you can manage Git repositories.
+
+3. Github is used to collab projects on without messing up the original project 
